@@ -1,5 +1,5 @@
 # Funny Emails
-"Funny Emails" is a Python project designed to bring a daily dose of laughter to your inbox by automatically sending random funny quotes via email. The Python script utilizes the Quotes API to fetch amusing and light-hearted quotes, which are then seamlessly delivered to the specified email recipients.
+"Funny Emails" is a Python project designed to bring a daily dose of laughter to your inbox by automatically sending random funny quotes via email. The Python script utilizes the Quotes API to fetch amusing quotes, which are then seamlessly delivered to the specified email recipients.
 
 Key Features:
 
